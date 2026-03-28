@@ -1,0 +1,81 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    max-width: 1800px;
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+header {
+    padding: 40px 60px;
+}
+
+#boost{
+    background-image: url(./images/Ресурс\ 1\ 1\(1\).png);
+    background-position: end;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 148px 20px;
+}
+
+#logo {
+    padding: 45px 60px;
+}
+
+.logo{
+    display: flex;
+    gap: 136px;
+}
+
+#help{
+    background-image: url(./images/Ресурс\ 1\ 1\(2\).png);
+    background-position: start;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 100px 20px;
+}
+
+.help {
+    display: flex;
+    align-items: center;
+    gap: 136px;
+    background-color: #212121;
+    border: none;
+    border-radius: 20px;
+    padding: 100px 80px;
+}
+
+.help h1 {
+    font-size: 128px;
+    font-weight: 700;
+    color: white;
+    max-width: 831px;
+}
+
+.help ul {
+    font-size: 24px;
+    font-weight: 400;
+    color: white;
+}
+
+.help li {
+    margin-bottom: 25px;
+}
+
+#malumot{
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-image: url(./images/e4b3b7370f6362550b70de69c44a6fc17bca4dad.png);
+    padding: 100px 60px;
+}
+
+footer{
+    background-color: black;
+    padding: 80px 60px;
+}
