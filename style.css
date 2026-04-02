@@ -1,4 +1,4 @@
-.container{
+.container {
     max-width: 1800px;
     width: 100%;
     margin-left: auto;
@@ -9,8 +9,8 @@ header {
     padding: 40px 60px;
 }
 
-#boost{
-    background-image: url(./images/Ресурс\ 1\ 1\(1\).png);
+#boost {
+    background-image: url(./images/resource_1_1_1.png);
     background-position: end;
     background-repeat: no-repeat;
     background-size: cover;
@@ -21,13 +21,13 @@ header {
     padding: 45px 60px;
 }
 
-.logo{
+.logo {
     display: flex;
     gap: 136px;
 }
 
-#help{
-    background-image: url(./images/Ресурс\ 1\ 1\(2\).png);
+#help {
+    background-image: url(./images/resource_1_1_2.png);
     background-position: start;
     background-repeat: no-repeat;
     background-size: cover;
@@ -59,7 +59,7 @@ header {
     margin-bottom: 25px;
 }
 
-#malumot{
+#malumot {
     background-position: center;
     background-repeat: no-repeat;
     background-size: contain;
@@ -67,7 +67,7 @@ header {
     padding: 100px 60px;
 }
 
-footer{
+footer {
     background-color: black;
     padding: 80px 60px;
 }
